@@ -1,0 +1,1 @@
+/Users/samuel.ramos/Documents/AndroidProjects/compose_1/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/samuel.ramos/Documents/AndroidProjects/compose_1/buildSrc/build/classes/kotlin/main/DependenciesKt.class:/Users/samuel.ramos/Documents/AndroidProjects/compose_1/buildSrc/build/classes/kotlin/main/Versions.class
